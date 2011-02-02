@@ -14,7 +14,6 @@ setup(
     url='',
     install_requires=[
         "Pylons>=1.0",
-        "Morpylons",
         "SQLAlchemy>=0.6",
         "Genshi>=0.4",
     ],
